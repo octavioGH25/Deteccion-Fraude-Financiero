@@ -31,7 +31,7 @@ El modelo procesó un dataset transaccional con los siguientes hallazgos de segu
 ### 1. Matriz de Detección
 *(Aquí se demuestra la eficiencia del algoritmo)*
 
-> `![Matriz](Modelo de Detección.png)`
+> `![Matriz](modelo_deteccion.png)`
 
 * **Transacciones Validadas (Legítimas):** ~56,800 operaciones aprobadas automáticamente.
 * **Amenazas Detectadas (True Positives):** 80 fraudes identificados correctamente.
