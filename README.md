@@ -6,6 +6,13 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Enfoque](https://img.shields.io/badge/Enfoque-Riesgo%20%26%20Ciberseguridad-red)
 
+<div align="center">
+
+[![Play](https://img.shields.io/badge/▶_EJECUTAR_AUDITORÍA_DIGITAL-2ea44f?style=for-the-badge&logoColor=white)](deteccion_de_fraudes.ipynb)
+
+</div>
+
+
 ## 📋 Descripción Ejecutiva
 
 Como profesional con formación sólida en **Contaduría Pública** y en transición hacia la **Ciberseguridad**, entiendo que el fraude financiero es un riesgo crítico que no escala con revisión manual.
@@ -31,7 +38,7 @@ El modelo procesó un dataset transaccional con los siguientes hallazgos de segu
 ### 1. Matriz de Detección
 *(Aquí se demuestra la eficiencia del algoritmo)*
 
-> `![Matriz](modelo_deteccion.png)`
+![Matriz](modelo_deteccion.png)
 
 * **Transacciones Validadas (Legítimas):** ~56,800 operaciones aprobadas automáticamente.
 * **Amenazas Detectadas (True Positives):** 80 fraudes identificados correctamente.
